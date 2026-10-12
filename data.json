@@ -7,6 +7,41 @@
       "i": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=500",
       "v": [
         {
+          "m": "Match 305",
+          "d": "12 Oct",
+          "t": "SPURS at SUNS",
+          "id": "0XeTdAIO-uQ",
+          "dur": "15:04"
+        },
+        {
+          "m": "Match 304",
+          "d": "12 Oct",
+          "t": "MAVERICKS at ROCKETS",
+          "id": "b0dZkVV_heM",
+          "dur": "15:39"
+        },
+        {
+          "m": "Match 303",
+          "d": "12 Oct",
+          "t": "MAGIC at CAVALIERS",
+          "id": "GwNNcZ3SpSo",
+          "dur": "17:58"
+        },
+        {
+          "m": "Match 302",
+          "d": "12 Oct",
+          "t": "BUCKS at HORNETS",
+          "id": "wj6iKc2UvN4",
+          "dur": "15:12"
+        },
+        {
+          "m": "Match 301",
+          "d": "12 Oct",
+          "t": "BULLS at NUGGETS",
+          "id": "yINWDxMU3OM",
+          "dur": "16:15"
+        },
+        {
           "m": "Match 306",
           "d": "11 Oct",
           "t": "CLIPPERS at RAPTORS",
@@ -2070,41 +2105,6 @@
           "t": "#7 76ERS at #2 CELTICS",
           "id": "Sv9N4IPSYzA",
           "dur": "16:51"
-        },
-        {
-          "m": "Match 305",
-          "d": "20 Apr",
-          "t": "EXTENDED: #7 76ERS at #2 CELTICS",
-          "id": "XffyW4D1Co4",
-          "dur": "45:59"
-        },
-        {
-          "m": "Match 304",
-          "d": "20 Apr",
-          "t": "#8 SUNS at #1 THUNDER",
-          "id": "YrwJN0EWx9o",
-          "dur": "15:05"
-        },
-        {
-          "m": "Match 303",
-          "d": "20 Apr",
-          "t": "EXTENDED: #8 SUNS at #1 THUNDER",
-          "id": "szzlZa7KKvY",
-          "dur": "46:42"
-        },
-        {
-          "m": "Match 302",
-          "d": "20 Apr",
-          "t": "#8 MAGIC at #1 PISTONS",
-          "id": "R_vR5eLI_rc",
-          "dur": "16:40"
-        },
-        {
-          "m": "Match 301",
-          "d": "20 Apr",
-          "t": "EXTENDED: #8 MAGIC at #1 PISTONS",
-          "id": "akjyxG221Ac",
-          "dur": "38:32"
         }
       ]
     },
@@ -2114,6 +2114,90 @@
       "g": "American Football",
       "i": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?w=500",
       "v": [
+        {
+          "m": "Match 65",
+          "d": "12 Oct",
+          "t": "Las Vegas Raiders vs. New England Patriots",
+          "id": "fLKLrtqun84",
+          "dur": "16:34"
+        },
+        {
+          "m": "Match 64",
+          "d": "12 Oct",
+          "t": "Indianapolis Colts vs. Pittsburgh Steelers",
+          "id": "padeBx3DEdM",
+          "dur": "16:28"
+        },
+        {
+          "m": "Match 63",
+          "d": "12 Oct",
+          "t": "Cincinnati Bengals vs Miami Dolphins",
+          "id": "veMELeUzxeo",
+          "dur": "15:28"
+        },
+        {
+          "m": "Match 62",
+          "d": "12 Oct",
+          "t": "Cleveland Browns vs New York Jets",
+          "id": "p_DHFA3Sfys",
+          "dur": "14:27"
+        },
+        {
+          "m": "Match 61",
+          "d": "12 Oct",
+          "t": "Minnesota Vikings vs New Orleans Saint",
+          "id": "OeaSf-kDpYA",
+          "dur": "10:58"
+        },
+        {
+          "m": "Match 60",
+          "d": "12 Oct",
+          "t": "Houston Texans vs. Tennessee Titans",
+          "id": "K4ZVwiL_Tf4",
+          "dur": "10:23"
+        },
+        {
+          "m": "Match 59",
+          "d": "12 Oct",
+          "t": "Chicago Bears vs. Green Bay Packers",
+          "id": "SWAC-z8sGjQ",
+          "dur": "16:27"
+        },
+        {
+          "m": "Match 58",
+          "d": "12 Oct",
+          "t": "New York Giants vs Washington Commanders",
+          "id": "E9KI_S2-vwo",
+          "dur": "19:47"
+        },
+        {
+          "m": "Match 57",
+          "d": "12 Oct",
+          "t": "Denver Broncos vs. Los Angeles Chargers",
+          "id": "EjqZq2newqk",
+          "dur": "12:18"
+        },
+        {
+          "m": "Match 56",
+          "d": "12 Oct",
+          "t": "San Francisco 49ers vs Seattle Seahawks",
+          "id": "B1hjRUzIduc",
+          "dur": "18:42"
+        },
+        {
+          "m": "Match 55",
+          "d": "12 Oct",
+          "t": "Detroit Lions vs. Arizona Cardinals",
+          "id": "a7ixKMcIHHs",
+          "dur": "15:13"
+        },
+        {
+          "m": "Match 54",
+          "d": "12 Oct",
+          "t": "Baltimore Ravens vs Atlanta Falcons",
+          "id": "fVlmow2jCDA",
+          "dur": "20:31"
+        },
         {
           "m": "Match 53",
           "d": "09 Oct",
@@ -2500,6 +2584,104 @@
       "g": "Baseball",
       "i": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/langfr-250px-Major_League_Baseball_logo.svg.png",
       "v": [
+        {
+          "m": "Match 164",
+          "d": "12 Oct",
+          "t": "Jacob Misiorowski records the first out of the 2026 NLCS!",
+          "id": "hHQhlYnMhzY",
+          "dur": "01:38"
+        },
+        {
+          "m": "Match 163",
+          "d": "12 Oct",
+          "t": "Freddie Freeman collects the first hit of the 2026 NLCS!",
+          "id": "UFjI6bkmLU4",
+          "dur": "02:08"
+        },
+        {
+          "m": "Match 162",
+          "d": "12 Oct",
+          "t": "Tarik Skubal strikes out the 1st batter he faces in the NLCS!",
+          "id": "DKVhuEkiLns",
+          "dur": "01:55"
+        },
+        {
+          "m": "Match 161",
+          "d": "12 Oct",
+          "t": "ENTIRE FIRST INNING: Tarik Skubal and Jacob Misiorowski square off in NLCS  1!",
+          "id": "1aLVX904xQs",
+          "dur": "10:47"
+        },
+        {
+          "m": "Match 160",
+          "d": "12 Oct",
+          "t": "Jacob Misiorowski’s first strikeout of the 2026 NLCS! ⛽️",
+          "id": "aefyltAJK6k",
+          "dur": "01:53"
+        },
+        {
+          "m": "Match 159",
+          "d": "12 Oct",
+          "t": "FULL 2nd INNING: Andy Pages puts the Dodgers ahead vs. Brewers & Jacob Misiorowski",
+          "id": "VpjUN2Vim9w",
+          "dur": "15:53"
+        },
+        {
+          "m": "Match 158",
+          "d": "12 Oct",
+          "t": "FULL AT-BAT: Jacob Misiorowski strikes out Shohei Ohtani! 😳",
+          "id": "FWE18XxtczE",
+          "dur": "02:20"
+        },
+        {
+          "m": "Match 157",
+          "d": "12 Oct",
+          "t": "FIREWORKS SHOW after Brice Turang's homer ties the  for the Brewers! 🎆",
+          "id": "RuSqs8EyLdc",
+          "dur": "03:48"
+        },
+        {
+          "m": "Match 156",
+          "d": "12 Oct",
+          "t": "The Brewers take the lead and then load the bases vs. Tarik Skubal 😳",
+          "id": "r4JL1sFMq9c",
+          "dur": "12:25"
+        },
+        {
+          "m": "Match 155",
+          "d": "12 Oct",
+          "t": "Abner Uribe gets out of trouble and his reaction is INCREDIBLE! 😱",
+          "id": "UqbbZY5Q_Ms",
+          "dur": "07:12"
+        },
+        {
+          "m": "Match 154",
+          "d": "12 Oct",
+          "t": "ALL 7 STRIKEOUTS: Tarik Skubal starts  1 of the NLCS for the Dodgers!",
+          "id": "ICcU-9V1zP4",
+          "dur": "10:10"
+        },
+        {
+          "m": "Match 153",
+          "d": "12 Oct",
+          "t": "Shohei Ohtani vs. Jacob Misiorowski! (Both plate appearances in 2026 NLCS  1)",
+          "id": "kT_Frzloic8",
+          "dur": "02:59"
+        },
+        {
+          "m": "Match 152",
+          "d": "12 Oct",
+          "t": "FINAL 3 OUTS: Brewers win a NAIL-BITER vs. the Dodgers! ( 1 of the 2026 NLCS)",
+          "id": "NGPaiZClY5k",
+          "dur": "12:54"
+        },
+        {
+          "m": "Match 151",
+          "d": "12 Oct",
+          "t": "DODGERS vs. BREWERS: NLCS  1  (October 11)",
+          "id": "4j6Lb7_5C0E",
+          "dur": "23:01"
+        },
         {
           "m": "Match 151",
           "d": "11 Oct",
@@ -3451,104 +3633,6 @@
           "t": "FINAL 3 OUTS: Astros lift off to the  Postseason 🚀",
           "id": "1WsMAe29YOM",
           "dur": "05:59"
-        },
-        {
-          "m": "Match 153",
-          "d": "28 Sep",
-          "t": "FINAL INNING AND SPEECH: The LEGENDARY Rick Rizzs signs off for the Mariners!",
-          "id": "3XFaqaV7Xo0",
-          "dur": "24:03"
-        },
-        {
-          "m": "Match 152",
-          "d": "28 Sep",
-          "t": "A ROOKIE hit the LONGEST  home run of September 2026?",
-          "id": "DLEKrgM-rzo",
-          "dur": "10:45"
-        },
-        {
-          "m": "Match 151",
-          "d": "28 Sep",
-          "t": "2026  Season Leaders in HR (Schwarber/PCA), Ks (Miz), AVG (Yordan), AND MORE!",
-          "id": "caT2yXkHqdE",
-          "dur": "14:19"
-        },
-        {
-          "m": "Match 171",
-          "d": "27 Sep",
-          "t": "GUARDIANS vs. ROYALS: Official   (September 25)",
-          "id": "d5dsuhOVDtA",
-          "dur": "21:18"
-        },
-        {
-          "m": "Match 170",
-          "d": "27 Sep",
-          "t": "DODGERS vs. GIANTS: Official   (September 25)",
-          "id": "lNn4AZrLjzk",
-          "dur": "10:50"
-        },
-        {
-          "m": "Match 169",
-          "d": "27 Sep",
-          "t": "D-BACKS vs. PADRES: Official   (September 25)",
-          "id": "G4m_sQlG_Ug",
-          "dur": "11:51"
-        },
-        {
-          "m": "Match 168",
-          "d": "27 Sep",
-          "t": "ASTROS vs. ATHLETICS: Official   (September 25)",
-          "id": "fW9qG5KafhI",
-          "dur": "16:11"
-        },
-        {
-          "m": "Match 167",
-          "d": "27 Sep",
-          "t": "ANGELS vs. MARINERS: Official   (September 25)",
-          "id": "hOCAdharVI0",
-          "dur": "13:44"
-        },
-        {
-          "m": "Match 166",
-          "d": "27 Sep",
-          "t": "from ALL S on 9/25 (Munetaka Murakami and Pete Alonso each homer TWICE & MORE!)",
-          "id": "0S9C1mcz5I8",
-          "dur": "14:52"
-        },
-        {
-          "m": "Match 165",
-          "d": "27 Sep",
-          "t": "Eury Pérez's one-hit shutout, Nolan Arenado's 30th homer and the BEST   from 9/25/26",
-          "id": "saX3PZ81CxI",
-          "dur": "04:45"
-        },
-        {
-          "m": "Match 164",
-          "d": "27 Sep",
-          "t": "Justin Verlander leaves the mound for the final time in his LEGENDARY career 👏",
-          "id": "6KLyj_F6fAA",
-          "dur": "05:36"
-        },
-        {
-          "m": "Match 163",
-          "d": "27 Sep",
-          "t": "METS vs. NATIONALS: Official   (September 26)",
-          "id": "Vu2cTH5cs1E",
-          "dur": "11:28"
-        },
-        {
-          "m": "Match 162",
-          "d": "27 Sep",
-          "t": "PIRATES vs. TIGERS: Official   (September 26)",
-          "id": "Z9Bt9kYcLYE",
-          "dur": "12:44"
-        },
-        {
-          "m": "Match 161",
-          "d": "27 Sep",
-          "t": "Mookie Betts gives the Dodgers the lead with his 23rd homer of the year! 💪",
-          "id": "83npthefiwY",
-          "dur": "01:36"
         }
       ]
     }
