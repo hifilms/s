@@ -7,6 +7,27 @@
       "i": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=500",
       "v": [
         {
+          "m": "Match 303",
+          "d": "30 Oct",
+          "t": "LAKERS at CLIPPERS",
+          "id": "6TqEIclfr7k",
+          "dur": "15:10"
+        },
+        {
+          "m": "Match 302",
+          "d": "30 Oct",
+          "t": "KINGS at PELICANS",
+          "id": "-xdS0PuljsU",
+          "dur": "18:23"
+        },
+        {
+          "m": "Match 301",
+          "d": "30 Oct",
+          "t": "CAVALIERS at HAWKS",
+          "id": "PJO8_pxOr08",
+          "dur": "16:27"
+        },
+        {
           "m": "Match 312",
           "d": "29 Oct",
           "t": "TRAIL BLAZERS at LAKERS",
@@ -2084,27 +2105,6 @@
           "t": "EXTENDED: #4 CAVALIERS at #1 PISTONS",
           "id": "z0PabNWsFzg",
           "dur": "48:54"
-        },
-        {
-          "m": "Match 303",
-          "d": "09 May",
-          "t": "#4 LAKERS at #1 THUNDER",
-          "id": "WOLRi5RYu8U",
-          "dur": "16:17"
-        },
-        {
-          "m": "Match 302",
-          "d": "09 May",
-          "t": "EXTENDED: #4 LAKERS at #1 THUNDER",
-          "id": "jwFxOywo-lg",
-          "dur": "34:47"
-        },
-        {
-          "m": "Match 301",
-          "d": "09 May",
-          "t": "#3 KNICKS at #7 76ERS",
-          "id": "k0qihAFSrNY",
-          "dur": "15:06"
         }
       ]
     },
@@ -2114,6 +2114,13 @@
       "g": "American Football",
       "i": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?w=500",
       "v": [
+        {
+          "m": "Match 89",
+          "d": "30 Oct",
+          "t": "Carolina Panthers vs Green Bay Packers",
+          "id": "L6m1RUIXLB4",
+          "dur": "17:35"
+        },
         {
           "m": "Match 88",
           "d": "27 Oct",
@@ -2745,6 +2752,48 @@
       "g": "Baseball",
       "i": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/langfr-250px-Major_League_Baseball_logo.svg.png",
       "v": [
+        {
+          "m": "World Series",
+          "d": "30 Oct",
+          "t": "ALL CALLS of the Brewers’ FINAL OUT! 🔊",
+          "id": "rUy0YsChczQ",
+          "dur": "08:04"
+        },
+        {
+          "m": "World Series",
+          "d": "30 Oct",
+          "t": "2026 WORLD SERIES: Brewers win FIRST-EVER Fall Classic in 5 s vs. Rays",
+          "id": "lRiuYsrg_bs",
+          "dur": "35:41"
+        },
+        {
+          "m": "World Series",
+          "d": "30 Oct",
+          "t": "ULTIMATE 2026 Brewers HIGHLIGHT REEL! (Won first-ever World Series championship) 🏆",
+          "id": "Xq7nUf-56d4",
+          "dur": "47:31"
+        },
+        {
+          "m": "World Series",
+          "d": "30 Oct",
+          "t": "Jacob Misiorowski picked up TWO WINS to lead the Brewers to a title!",
+          "id": "mn4Phl8gmY4",
+          "dur": "10:24"
+        },
+        {
+          "m": "World Series",
+          "d": "30 Oct",
+          "t": "Aaron Ashby provided World Series heroics to close out a LEGENDARY Postseason! 🏆",
+          "id": "c8VkFj_mlGI",
+          "dur": "03:13"
+        },
+        {
+          "m": "World Series",
+          "d": "30 Oct",
+          "t": "Sal Frelick came up CLUTCH time after time in the Brewers WORLD SERIES win",
+          "id": "DHq3DdGlKZY",
+          "dur": "08:58"
+        },
         {
           "m": "Match 169",
           "d": "29 Oct",
@@ -3752,48 +3801,6 @@
           "t": "The Brewers are headed to the NLCS after taking down the Padres!",
           "id": "BRokT-IZh4s",
           "dur": "12:46"
-        },
-        {
-          "m": "Match 164",
-          "d": "09 Oct",
-          "t": "BREWERS vs. PADRES: NLDS  4  (October 7)",
-          "id": "edfhFJfJVdE",
-          "dur": "18:43"
-        },
-        {
-          "m": "Match 163",
-          "d": "09 Oct",
-          "t": "from ALL S on October 7! (Three teams advance and MORE!)",
-          "id": "tMfktFXAuQo",
-          "dur": "11:59"
-        },
-        {
-          "m": "Match 162",
-          "d": "09 Oct",
-          "t": "Dodgers take NLDS in 4 s! BRAVES vs. DODGERS: Full 2026 NLDS",
-          "id": "-Vxs0cmpJ7A",
-          "dur": "11:56"
-        },
-        {
-          "m": "Match 161",
-          "d": "09 Oct",
-          "t": "Rays SWEEP the ALDS against the Yankees!",
-          "id": "U2Cl-0WHJNE",
-          "dur": "09:12"
-        },
-        {
-          "m": "Match 160",
-          "d": "09 Oct",
-          "t": "Brewers take down Padres in an EPIC series and are BACK in the NLCS!",
-          "id": "cdKFc71QI04",
-          "dur": "12:01"
-        },
-        {
-          "m": "Match 159",
-          "d": "09 Oct",
-          "t": "FULL INNING: Despite a ruckus Chicago crowd, the Guardians LOAD THE BASES! 👀",
-          "id": "gmIXvdcPdeI",
-          "dur": "15:47"
         }
       ]
     }
