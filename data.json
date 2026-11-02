@@ -7,6 +7,27 @@
       "i": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=500",
       "v": [
         {
+          "m": "Match 303",
+          "d": "02 Nov",
+          "t": "CELTICS at MAGIC",
+          "id": "8jItnLHesf0",
+          "dur": "15:02"
+        },
+        {
+          "m": "Match 302",
+          "d": "02 Nov",
+          "t": "NETS at PACERS",
+          "id": "8vOx-N_7iEQ",
+          "dur": "15:03"
+        },
+        {
+          "m": "Match 301",
+          "d": "02 Nov",
+          "t": "CLIPPERS at WARRIORS",
+          "id": "wQr-WKrgoBE",
+          "dur": "15:03"
+        },
+        {
           "m": "Match 309",
           "d": "01 Nov",
           "t": "NUGGETS at SUNS",
@@ -2084,27 +2105,6 @@
           "t": "EXTENDED: #4 CAVALIERS at #1 PISTONS",
           "id": "uN5wbGLvyc4",
           "dur": "45:09"
-        },
-        {
-          "m": "Match 301",
-          "d": "15 May",
-          "t": "2026 AWS  Draft Combine: Scrimmage Day 2",
-          "id": "IVJ3ZTdvYX8",
-          "dur": "16:29"
-        },
-        {
-          "m": "Match 302",
-          "d": "14 May",
-          "t": "EXTENDED: #6 TIMBERWOLVES at #2 SPURS",
-          "id": "6HuTouMQKiw",
-          "dur": "38:32"
-        },
-        {
-          "m": "Match 301",
-          "d": "14 May",
-          "t": "2026 AWS  Draft Combine: Scrimmage",
-          "id": "WnClLL4ZAxk",
-          "dur": "17:02"
         }
       ]
     },
@@ -2114,6 +2114,48 @@
       "g": "American Football",
       "i": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?w=500",
       "v": [
+        {
+          "m": "Match 95",
+          "d": "02 Nov",
+          "t": "Minnesota Vikings vs. Detroit Lions",
+          "id": "pB59Bt0uklY",
+          "dur": "14:57"
+        },
+        {
+          "m": "Match 94",
+          "d": "02 Nov",
+          "t": "Las Vegas Raiders vs. New York Jets",
+          "id": "-fuyn2BZZAI",
+          "dur": "15:40"
+        },
+        {
+          "m": "Match 93",
+          "d": "02 Nov",
+          "t": "Baltimore Ravens vs Buffalo Bills",
+          "id": "3xMS3qL2KwY",
+          "dur": "16:59"
+        },
+        {
+          "m": "Match 92",
+          "d": "02 Nov",
+          "t": "Tennessee Titans vs Cincinnati Bengals",
+          "id": "fZ27uy5PB7I",
+          "dur": "21:29"
+        },
+        {
+          "m": "Match 91",
+          "d": "02 Nov",
+          "t": "Los Angeles Chargers vs Los Angeles Rams",
+          "id": "Z5w0O7Jprdk",
+          "dur": "13:57"
+        },
+        {
+          "m": "Match 90",
+          "d": "02 Nov",
+          "t": "Kansas City Chiefs vs. Denver Broncos",
+          "id": "Tj71A_YItgE",
+          "dur": "13:59"
+        },
         {
           "m": "Match 89",
           "d": "30 Oct",
@@ -2752,6 +2794,13 @@
       "g": "Baseball",
       "i": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/langfr-250px-Major_League_Baseball_logo.svg.png",
       "v": [
+        {
+          "m": "Match 151",
+          "d": "02 Nov",
+          "t": "The BEST PLAYS from EVERY 2026 Gold Glove Award winner! ⭐️💎",
+          "id": "sT4OumxIwJE",
+          "dur": "09:02"
+        },
         {
           "m": "World Series",
           "d": "31 Oct",
@@ -3794,13 +3843,6 @@
           "t": "DODGERS vs. BREWERS: NLCS  1  (October 11)",
           "id": "4j6Lb7_5C0E",
           "dur": "23:01"
-        },
-        {
-          "m": "Match 151",
-          "d": "11 Oct",
-          "t": "WHITE SOX vs. GUARDIANS: ALDS  5  (October 10)",
-          "id": "en6tJ9LoZ0c",
-          "dur": "19:24"
         }
       ]
     }
