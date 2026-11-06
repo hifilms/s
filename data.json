@@ -7,6 +7,34 @@
       "i": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=500",
       "v": [
         {
+          "m": "Match 304",
+          "d": "06 Nov",
+          "t": "MAVERICKS at SPURS",
+          "id": "CGMqqffvAZw",
+          "dur": "16:34"
+        },
+        {
+          "m": "Match 303",
+          "d": "06 Nov",
+          "t": "LAKERS at KINGS",
+          "id": "YtP-cXT3A70",
+          "dur": "15:11"
+        },
+        {
+          "m": "Match 302",
+          "d": "06 Nov",
+          "t": "HEAT at CLIPPERS",
+          "id": "qz1LM3gsHNw",
+          "dur": "15:12"
+        },
+        {
+          "m": "Match 301",
+          "d": "06 Nov",
+          "t": "MAGIC at SUNS",
+          "id": "jOnSyL073rY",
+          "dur": "17:34"
+        },
+        {
           "m": "Match 311",
           "d": "05 Nov",
           "t": "HAWKS at WIZARDS",
@@ -2077,34 +2105,6 @@
           "t": "EXTENDED: #3 KNICKS at #2 SPURS",
           "id": "4uemplteguQ",
           "dur": "52:29"
-        },
-        {
-          "m": "Finals",
-          "d": "04 Jun",
-          "t": "#3 KNICKS at #2 SPURS",
-          "id": "AL0AGaoJCWY",
-          "dur": "18:41"
-        },
-        {
-          "m": "Match 301",
-          "d": "01 Jun",
-          "t": "EXTENDED: #2 SPURS at #1 THUNDER",
-          "id": "cnO2DWrkOfw",
-          "dur": "46:07"
-        },
-        {
-          "m": "Match 301",
-          "d": "31 May",
-          "t": "#2 SPURS at #1 THUNDER",
-          "id": "1bOMYQFgK4I",
-          "dur": "17:02"
-        },
-        {
-          "m": "Match 301",
-          "d": "30 May",
-          "t": "EXTENDED: #1 THUNDER at #2 SPURS",
-          "id": "KyuXHZLsZTw",
-          "dur": "37:51"
         }
       ]
     },
@@ -2114,6 +2114,13 @@
       "g": "American Football",
       "i": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?w=500",
       "v": [
+        {
+          "m": "Match 98",
+          "d": "06 Nov",
+          "t": "Jacksonville Jaguars vs Baltimore Ravens",
+          "id": "TRUoUtxPZIU",
+          "dur": "12:44"
+        },
         {
           "m": "Match 97",
           "d": "03 Nov",
@@ -2808,6 +2815,13 @@
       "g": "Baseball",
       "i": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/langfr-250px-Major_League_Baseball_logo.svg.png",
       "v": [
+        {
+          "m": "Match 151",
+          "d": "06 Nov",
+          "t": "2026 Jung Hoo Lee  (40+ extra-base hits in 2 straight seasons!) 이정후",
+          "id": "A-sA8QNjXY0",
+          "dur": "25:16"
+        },
         {
           "m": "Match 151",
           "d": "05 Nov",
@@ -3850,13 +3864,6 @@
           "t": "FIREWORKS SHOW after Brice Turang's homer ties the  for the Brewers! 🎆",
           "id": "RuSqs8EyLdc",
           "dur": "03:48"
-        },
-        {
-          "m": "Match 156",
-          "d": "12 Oct",
-          "t": "The Brewers take the lead and then load the bases vs. Tarik Skubal 😳",
-          "id": "r4JL1sFMq9c",
-          "dur": "12:25"
         }
       ]
     }
